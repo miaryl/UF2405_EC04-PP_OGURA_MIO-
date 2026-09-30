@@ -54,8 +54,9 @@ UF2406ED01/
 Clonar el repositorio:
 
 ```Bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_CARPETA>
+git clone https://github.com/miaryl/UF2405_EC04-PP_OGURA_MIO-.git
+)
+cd UF2405_EC04-PP_OGURA_MIO-
 ```
 
 Crear y activar el entorno virtual:
